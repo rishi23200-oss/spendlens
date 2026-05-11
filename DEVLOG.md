@@ -27,3 +27,20 @@
 **What I learned:** Vercel build hangs when environment variables are missing and the code doesn't handle undefined values gracefully. Always add fallback values for env vars in non-critical paths.
 **Blockers / what I'm stuck on:** Vercel deployment was hanging for 20+ minutes — turned out to be a combination of the Suspense issue and missing env var handling.
 **Plan for tomorrow:** Conduct 3 user interviews, write REFLECTION.md, complete DEVLOG, finalize CI workflow.
+
+
+## Day 5 — 2026-05-11
+**Hours worked:** 2
+**What I did:** Added README.md with live deployment URL 
+(https://spendlens-woad.vercel.app), added screenshots of landing page, 
+audit form, and results page. Added CI workflow file. Verified full 
+audit flow works on production — tested with Cursor Business 3 seats 
+and found $60/mo savings correctly identified.
+**What I learned:** Vercel automatically redeploys on every git push 
+to main branch. Also learned that taking good screenshots matters — 
+the results page screenshot shows the savings hero clearly which is 
+what gets shared.
+**Blockers / what I'm stuck on:** Need to complete user interviews — 
+messaged 3 people today, waiting for responses.
+**Plan for tomorrow:** Complete user interviews, write 
+USER_INTERVIEWS.md, add DEVLOG Day 6.
