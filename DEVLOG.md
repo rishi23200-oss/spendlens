@@ -44,3 +44,17 @@ what gets shared.
 messaged 3 people today, waiting for responses.
 **Plan for tomorrow:** Complete user interviews, write 
 USER_INTERVIEWS.md, add DEVLOG Day 6.
+
+## Day 6 — 2026-05-12
+**Hours worked:** 2
+**What I did:** Added CI workflow (.github/workflows/ci.yml), 
+completed user interviews with 3 developers, wrote 
+USER_INTERVIEWS.md. Verified all 6 tests still passing. 
+Checked live site on mobile — responsive layout looks good.
+**What I learned:** GitHub Actions CI runs automatically on 
+every push to main. Green checkmark shows on commits which 
+looks professional in the repo.
+**Blockers / what I'm stuck on:** User interviews took time 
+to schedule but got all 3 done today.
+**Plan for tomorrow:** Final polish, complete DEVLOG Day 7, 
+prepare submission.
