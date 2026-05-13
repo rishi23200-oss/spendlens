@@ -58,3 +58,15 @@ looks professional in the repo.
 to schedule but got all 3 done today.
 **Plan for tomorrow:** Final polish, complete DEVLOG Day 7, 
 prepare submission.
+
+## Day 7 — 2026-05-13
+**Hours worked:** 3
+**What I did:** Final polish on the project. Verified live URL 
+works end-to-end (https://spendlens-woad.vercel.app). All 6 
+tests passing. Added final screenshots to README. Completed 
+all required markdown files. Prepared submission for Google Form.
+**What I learned:** Building a full-stack product in 7 days is 
+very different from solving coding problems. The hardest parts 
+were not the code — they were the decisions about what to build 
+and why.
+**Plan for today:** Submit via Google Form before deadline.
